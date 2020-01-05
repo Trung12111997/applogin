@@ -72,7 +72,7 @@ if (is_array($errors)&& !empty($errors)){
                     <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password">
                 </div>
                 <div class="form-group form-check">
-                    <p><a href="degister.php"> Đăng ký</a></p>
+                    <p><a href="register.php"> Đăng ký</a></p>
                 </div>
                 <button type="submit" class="btn btn-primary">Đăng nhập</button>
             </form>
